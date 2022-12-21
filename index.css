@@ -1,0 +1,238 @@
+body{
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+.container-fluid{
+  padding-left: 0;
+  padding-right: 0;
+}
+.h1{
+  margin-left: 15%;
+  font-size:3rem;
+}
+a{
+  color:white;
+  text-decoration:none;
+}
+a:hover{
+  color: brown;
+}
+.meet{
+  font-size:3.5rem;
+  margin-left:27%;
+  padding-bottom:3%;
+  line-height: 1.5;
+  color: white;
+
+}
+.pup{
+  width: 60%;
+padding-top:7%;
+padding-bottom:7%;
+transform: rotate(10deg);
+height:600px;
+
+}
+.every{
+  text-align: center;
+font-family: 'Montserrat', serif;
+}
+.div2{
+  margin-top:7%;
+}
+.dog1{
+  width: 80%;
+  border-radius: 100%;
+}
+.dog2{
+  width: 80%;
+  border-radius: 100%;
+}
+.dog3{
+  width: 80%;
+  border-radius: 100%;
+}
+.planfordog{
+  font-family: 'Montserrat', serif;
+}
+.homeless{
+  margin-top:2%;
+  font-family: 'Montserrat', serif;
+}
+.injured{
+  margin-top:2%;
+  font-family: 'Montserrat', serif;
+}
+.happy{
+  margin-top:2%;
+  font-family: 'Montserrat', serif;
+}
+.home{
+  margin-top:10%;
+  margin-bottom: 0;
+  background-color: #FF6B6B;
+  color: white;
+}
+.complete{
+  margin-bottom: 0;
+  padding-top:7%;
+  line-height: 2.5;
+  padding-left: 3%;
+  padding-right:3%;
+}
+.dog4{
+  width: 90%;
+  border-radius:4%;
+}
+.dog5{
+  width: 90%;
+  border-radius: 4%;
+}
+.dog6{
+  width: 90%;
+  border-radius: 4%;
+}
+.dog7{
+  width: 90%;
+  border-radius: 4%;
+}
+.food{
+  margin-top:2.5%;
+}
+.train{
+  margin-top:2.5%;
+}
+.love{
+  margin-top:2.5%;
+}
+.and{
+  margin-top:2.5%;
+}
+.plan{
+  margin-top:7%;
+}
+.simple{
+  margin-top:1%;
+  font-family: 'Montserrat', serif;
+}
+.t1{
+  line-height: 2;
+  margin-top: 5%;
+  font-size: 1.2rem;
+}
+.t2{
+  line-height: 2;
+    margin-top: 5%;
+      font-size: 1.2rem;
+}
+.t3{
+  line-height: 2;
+    margin-top: 5%;
+      font-size: 1.2rem;
+}
+.check{
+  width: 40%;
+}
+.booking{
+  width: 40%;
+}
+.free{
+  width:40%;
+}
+.hand{
+  width: 40%;
+}
+.hard-drive{
+  width: 40%;
+}
+.star{
+  width: 40%;
+}
+.h31{
+  margin-top:2.5%;
+}
+.h32{
+  margin-top:2.5%;
+}
+.h33{
+  margin-top:2.5%;
+}
+.h34{
+  margin-top:2.5%;
+}
+.h35{
+  margin-top:2.5%;
+}
+
+.h36{
+  margin-top:2.5%;
+}
+.features{
+  padding-bottom:5%;
+}
+.doggo{
+  width: 25%;
+  height: 300px;
+  border-radius: 4%;
+}
+.very{
+  margin-top:5%;
+  font-family:'Montserrat', serif;
+}
+.app{
+  margin-top:5%;
+  font-family:'Montserrat', serif;
+}
+.paw{
+  float: left;
+  width: 6%;
+  margin:2% 0 0 2%;
+}
+.dawg{
+  float: left;
+  margin-top:4.5%;
+  margin-left:1%;
+  font-family:'Merriweather', serif;
+
+}
+.dawghomes{
+  margin-top:2%;
+}
+.ta1{
+  color:white;
+}
+.ta2{
+  color:white;
+}
+.ta3{
+  color:white;
+}
+.ta4{
+  color:white;
+}
+.a1{
+  color: black;
+  text-decoration:none;
+}
+.a1:hover{
+  color: white;
+}
+.tg{
+  width: 5%;
+}
+.ig{
+  width: 5%;
+}
+.tw{
+  width: 5%;
+}
+.hhh{
+  font-family: 'Montserrat', serif;
+  font-weight: bold;
+}
+.hehe{
+  padding-left: 20%;
+}
+.ss{
+  text-align: center;
+}

@@ -1,0 +1,36 @@
+.h1{
+  margin-top: 2%;
+  text-align: center;
+  font-family: 'Montserrat', serif;
+}
+.navbar{
+  margin-top: 2%;
+}
+.a1{
+  text-decoration: none;
+  color: black;
+  font-size: 2rem;
+  margin-left: 5%;
+}
+.a1:hover{
+  color: white;
+}
+.p1{
+  font-size: 1.5rem;
+  text-align: center;
+  line-height: 3;
+  padding-left: 5%;
+  padding-right: 5%;
+  margin-top: 5%;
+}
+.a2{
+  text-decoration: none;
+  color: black;
+  font-size: 1.5rem
+}
+.a2:hover{
+  color: white;
+}
+body{
+  background-color: #D6D2C4;
+}

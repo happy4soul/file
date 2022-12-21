@@ -1,0 +1,31 @@
+body{
+  background-color: #65C18C;
+  font-family: 'Merriweather', serif;
+}
+.navbar{
+  margin-top:2%;
+}
+.img1{
+  margin-top:2%;
+}
+a{
+  margin-left: 5%;
+  font-size: 2rem;
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  color:white;
+}
+.h1{
+  margin-top:5%;
+  font-size: 3rem;
+}
+.p1{
+  margin-top: 5%;
+  font-size:2rem;
+  padding-left: 5%;
+  padding-right: 5%;
+  line-height: 2;
+  padding-bottom: 3%;
+}
